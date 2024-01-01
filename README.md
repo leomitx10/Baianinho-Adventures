@@ -1,2 +1,2 @@
 # Baianinho-Adventures
-Jogos de plataforma 2D feito no gamemaker.
+Jogo de plataforma 2D feito no gamemaker.
